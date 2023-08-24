@@ -1,10 +1,13 @@
 Who am I?
 -------------
-sysadmin gone cloud
+I'm a sysadmin living in the midwest, who loves their cats. I also love seeing terraform apply work on the first run.
 
 What's my stack?
 -------------
-someone else's computer
+AWS
+Proxmox
+CEPH
+Cisco/Arista
 
 Current projects?
 -------------
