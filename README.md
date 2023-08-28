@@ -4,10 +4,10 @@ I'm a sysadmin living in the midwest, who loves their cats. I also love seeing t
 
 What's my stack?
 -------------
-AWS
-Proxmox
-CEPH
-Cisco/Arista
+* AWS
+* Proxmox
+* CEPH
+* Cisco/Arista
 
 Current projects?
 -------------
