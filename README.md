@@ -8,6 +8,10 @@ What's my stack?
 * Proxmox
 * CEPH
 * Cisco/Arista
+* Terraform
+* Ansible
+* Go
+* HTMX
 
 Current projects?
 -------------
