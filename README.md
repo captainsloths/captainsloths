@@ -12,6 +12,9 @@ What's my stack?
 * Ansible
 * Go
 * HTMX
+* Javscript (Next, Astro, you know the drill)
+* Kubernetes
+* Gitops (ArgoCD)
 
 Current projects?
 -------------
