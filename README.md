@@ -1,6 +1,6 @@
 Who am I?
 -------------
-I'm a sysadmin living in the midwest, who loves their cats. I also love seeing terraform apply work on the first run.
+I'm a cloud engineer/devops/buzzword of the day living in the midwest, who loves their cats.
 
 What's my stack?
 -------------
