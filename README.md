@@ -5,20 +5,18 @@ I'm a sysadmin living in the midwest, who loves their cats. I also love seeing t
 What's my stack?
 -------------
 * AWS
+* Azure
 * Proxmox
 * CEPH
-* Cisco/Arista
-* Terraform
+* Terraform/OpenTofu
 * Ansible
 * Go
-* HTMX
-* Javscript (Next, Astro, you know the drill)
 * Kubernetes
 
 Current projects?
 -------------
-- Cloud Resume Challenge
-- (In planning) Cocktail recipe app
+- Makin a game in godot
+- Writing a lot of Terraform for various things
 
 <!---
 captainsloths/captainsloths is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
